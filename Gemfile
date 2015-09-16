@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'haml', '~> 4.0.7'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.5.1'
-
+gem 'devise'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
